@@ -16,7 +16,8 @@ public class ControladorJogo : MonoBehaviour {
 
     [Tooltip("Quantidade de Tiles iniciais")]
     [Range(1, 20)]
-    public int numSpawnIni;
+    [SerializeField]
+    private int numSpawnIni;
 
     /// <summary>
     /// Local para spawn do proximo Tile
