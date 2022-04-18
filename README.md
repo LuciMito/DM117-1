@@ -1,2 +1,2 @@
 # DM117-1
- Repositório do treinamento antigo de Unity do professor Phyll
+ Teste de um jogo endless runner 3D utilizando como base o treinamento antigo de Unity do professor Phyllipe Lima.
